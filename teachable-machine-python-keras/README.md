@@ -1,5 +1,7 @@
 # Using Teachable Machine image models in Python
 
+![An image of a crowded technician workspace at the Royal College of Art, with a text label at the bottom indicating that a machine learning model has detected a person in the image with 98% certainty and a volleyball in the image with 1% certainty](example.jpg)
+
 This example comes with a model that classifies people and volleyballs, trained on about 20 images of each. To use your own model from Teachable Machine, replace the `keras_model.h5` and `labels.txt` files with your own.
 
 This example comes with several example files which each achieve the same thing: classifying video from the webcam using a model trained with Teachable Machine.
